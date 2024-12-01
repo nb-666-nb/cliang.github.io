@@ -21,7 +21,7 @@ repository               : "ace-trump-tech/Chenbin_ZHANG.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "picture1.png"
+  avatar           : "profile.png"
   name             : "Chenbing Zhang"
   bio              : "He is currently engaged in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering. "
   #location         : "Earth"
