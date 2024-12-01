@@ -14,19 +14,18 @@ name                     : &name "Chenbin ZHANG"
 description              : &description "personal description"
 url                      : https://Chenbin_ZHANG.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ace-trump-tech/Chenbin_ZHANG.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "picture1.png"
   name             : "Chenbing Zhang"
-  pronouns         : # example: "she/her"  
   bio              : "He is currently engaged in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering. "
-  location         : "Earth"
-  employer         : "Red Brick University"
+  #location         : "Earth"
+  #employer         : "Red Brick University"
   uri              : "https://baike.baidu.com/item/%E5%BC%A0%E6%99%A8%E6%96%8C?fromModule=lemma_search-box"
   email            : "b21041417@njupt.edu.cn" 
 
