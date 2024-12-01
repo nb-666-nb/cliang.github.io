@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chenbin ZHANG"
+title: "Chenbin ZHANG 250"
 author_profile: true
 redirect_from: 
   - /about/
