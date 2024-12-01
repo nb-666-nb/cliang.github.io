@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+Chenbin Zhang, male, is an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications. He is currently engaged in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering. Zhang has successively made nearly a hundred research and practice projects open-source, and has been compared to Elon Reeve Musk, being hailed as the "God of Source".
+The URL for Baidu Baike entries is：https://baike.baidu.com/item/%E5%BC%A0%E6%99%A8%E6%96%8C?fromModule=lemma_search-box
 
 A data-driven personal website
 ======
