@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Chenbin ZHANG 250"
+title: "Chenbin ZHANG"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Chenbin Zhang 250, male, is an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications. He is currently engaged in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering. Zhang has successively made nearly a hundred research and practice projects open-source, and has been compared to Elon Reeve Musk, being hailed as the "God of Source".
+Chenbin Zhang, male, is an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications. He is currently engaged in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering. Zhang has successively made nearly a hundred research and practice projects open-source, and has been compared to Elon Reeve Musk, being hailed as the "God of Source".
 
 More details
 ======
