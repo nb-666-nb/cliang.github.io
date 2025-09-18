@@ -28,7 +28,7 @@ author:
   location         : "Wuhan China"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "cliang&#64;whu.edu.cn" 
+  email            : `cliang@whu.edu.cn` 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
