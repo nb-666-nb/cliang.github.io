@@ -1,24 +1,70 @@
 ---
 permalink: /
-title: "Chenbin ZHANG"
+title: "Chao Liang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Chenbin Zhang, male, is an undergraduate student in the class of 2021, majoring in Intelligent Science and Technology at College of Automation & College of Artificial Intelligence, Nanjing University of Posts and Telecommunications. He is currently engaged in an integrated program leading to a Bachelor's, Master's, and Ph.D. in Control Science and Engineering. Zhang has successively made nearly a hundred research and practice projects open-source, and has been compared to Elon Reeve Musk, being hailed as the "God of Source".
+Professor (Ph.D. Supervisor)
+Department of Artificial Intelligence, School of Computer Science
+National Multimedia Software Engineering Technology Research Center
+Wuhan University
 
-More details
+Research Interests
 ======
 The URL for Baidu Baike entries is：https://baike.baidu.com/item/%E5%BC%A0%E6%99%A8%E6%96%8C?fromModule=lemma_search-box
 
-Educational Background
-======
-September 2021 - Present            Nanjing University of Posts and Telecommunications            Intelligent Science and Technology | Bachelor's Degree          Major Ranking: 11/62
-Skills Certificates: English Certificates (CET-4, CET-6), proficient in languages such as Python, C, and have relevant experience with development platforms like ISE Design, Jieliuchuang EDA.
-Work Positions: Served as the publicity committee member of Class B210414, proficient in PPT creation and have extensive experience in article writing.
+**Research Interests:**
 
+- Computer Vision
+
+- Pattern Recognition
+
+- Multimedia Analysis and Retrieval
+
+  
+
+**Education**
+
+  - **Ph.D. in Engineering** (Pattern Recognition and Intelligent Systems)
+    - Sep. 2006 – Jul. 2012
+    - National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA)
+    - Beijing, China
+  - **B.E. in Engineering** (Control Science and Engineering)
+    - Sep. 2002 – Jun. 2006
+    - Department of Control Science and Engineering, Huazhong University of Science and Technology (HUST)
+    - Wuhan, China
+
+  **Academic Appointments**
+
+  - **Associate Professor**
+    - Dec. 2015 – Present
+    - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
+    - Wuhan, China
+  - **Lecturer**
+    - Aug. 2014 – Nov. 2015
+    - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
+    - Wuhan, China
+  - **Postdoctoral Researcher**
+    - Jul. 2012 – Jul. 2014
+    - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
+    - Wuhan, China
+
+  **Professional Experience / Secondment**
+
+  - **Liaison Officer for the National 973 Program**
+    - Jan. 2015 – Dec. 2015
+    - On secondment to the High-Tech Research and Development Center (HTRDC), Ministry of Science and Technology of China (MOST)
+    - Beijing, China
+
+ **Visiting Research**
+
+  - **Visiting Student Researcher**
+    - Sep. 2009 – Sep. 2010
+    - China-Singapore Institute of Digital Media (CSIDM)
+    - Singapore
 Hands-on experience
 ======
 March 2024       School-level Programming Project             Design and Implementation of Intelligent Face Recognition Access Control System           Project Leader
