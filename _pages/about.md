@@ -12,7 +12,7 @@ Department of Artificial Intelligence, School of Computer Science
 National Multimedia Software Engineering Technology Research Center
 Wuhan University
 
-**Research Interests:**
+**Research Interests**
 ======
 
  - Computer Vision
