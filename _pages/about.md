@@ -13,7 +13,7 @@ National Multimedia Software Engineering Technology Research Center
 Wuhan University
 
 **Research Interests:**
-====
+======
 
 - Computer Vision
 
@@ -23,7 +23,7 @@ Wuhan University
 
   
 **Education**
-====
+======
 
   - **Ph.D. in Engineering** (Pattern Recognition and Intelligent Systems)
     - Sep. 2006 – Jul. 2012
@@ -34,9 +34,8 @@ Wuhan University
     - Department of Control Science and Engineering, Huazhong University of Science and Technology (HUST)
     - Wuhan, China
 
-
-  **Work Experience**
-  ======  
+**Work Experience**
+======  
   - **Professor**
     - Jun. 2025 – Present
     - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
