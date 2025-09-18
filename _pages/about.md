@@ -34,10 +34,10 @@ Wuhan University
     - Department of Control Science and Engineering, Huazhong University of Science and Technology (HUST)
     - Wuhan, China
 
+
   **Work Experience**
-  ====
-
-
+  ======
+  
   - **Professor**
     - Jun. 2025 – Present
     - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
