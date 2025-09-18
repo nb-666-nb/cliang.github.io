@@ -12,11 +12,7 @@ Department of Artificial Intelligence, School of Computer Science
 National Multimedia Software Engineering Technology Research Center
 Wuhan University
 
-Research Interests
-======
-The URL for Baidu Baike entries is：https://baike.baidu.com/item/%E5%BC%A0%E6%99%A8%E6%96%8C?fromModule=lemma_search-box
-
-**Research Interests:**
+##**Research Interests:**
 
 - Computer Vision
 
@@ -65,7 +61,9 @@ The URL for Baidu Baike entries is：https://baike.baidu.com/item/%E5%BC%A0%E6%9
     - Sep. 2009 – Sep. 2010
     - China-Singapore Institute of Digital Media (CSIDM)
     - Singapore
-Hands-on experience
+   
+    - 
+**Hands-on experience**
 ======
 March 2024       School-level Programming Project             Design and Implementation of Intelligent Face Recognition Access Control System           Project Leader
 ------
