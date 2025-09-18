@@ -15,11 +15,11 @@ Wuhan University
 **Research Interests:**
 ======
 
-- Computer Vision
+ - Computer Vision
 
-- Pattern Recognition
+ - Pattern Recognition
 
-- Multimedia Analysis and Retrieval
+ - Multimedia Analysis and Retrieval
 
   
 **Education**
