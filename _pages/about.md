@@ -22,9 +22,9 @@ Wuhan University
 ======
 
   - **Ph.D. in Engineering** (Pattern Recognition and Intelligent Systems)
-    - 2006 – 2012 National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China
+    - 2006 – 2012, National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China
   - **B.E. in Engineering** (Control Science and Engineering)
-    - 2002 – 2006 Department of Control Science and Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China
+    - 2002 – 2006, Department of Control Science and Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China
 
 **Work Experience**
 ======  
