@@ -15,24 +15,16 @@ Wuhan University
 **Research Interests**
 ======
 
- - Computer Vision
-
- - Pattern Recognition
-
- - Multimedia Analysis and Retrieval
+ - Computer Vision, Pattern Recognition, Multimedia Analysis and Retrieval
 
   
 **Education**
 ======
 
   - **Ph.D. in Engineering** (Pattern Recognition and Intelligent Systems)
-    - Sep. 2006 – Jul. 2012
-    - National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA)
-    - Beijing, China
+    - 2006 – 2012 National Laboratory of Pattern Recognition (NLPR), Institute of Automation, Chinese Academy of Sciences (CASIA), Beijing, China
   - **B.E. in Engineering** (Control Science and Engineering)
-    - Sep. 2002 – Jun. 2006
-    - Department of Control Science and Engineering, Huazhong University of Science and Technology (HUST)
-    - Wuhan, China
+    - 2002 – 2006 Department of Control Science and Engineering, Huazhong University of Science and Technology (HUST), Wuhan, China
 
 **Work Experience**
 ======  
