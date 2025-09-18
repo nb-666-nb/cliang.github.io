@@ -29,29 +29,17 @@ Wuhan University
 **Work Experience**
 ======  
   - **Professor**
-    - Jun. 2025 – Present
-    - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
-    - Wuhan, China
+    - Jun. 2025 – Present, National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University, Wuhan, China
   - **Associate Professor**
-    - Dec. 2015 – Jun. 2025
-    - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
-    - Wuhan, China
+    - Dec. 2015 – Jun. 2025, National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University, Wuhan, China
   - **Liaison Officer for the National 973 Program**
-    - Jan. 2015 – Dec. 2015
-    - On secondment to the High-Tech Research and Development Center (HTRDC), Ministry of Science and Technology of China (MOST)
-    - Beijing, China
+    - Jan. 2015 – Dec. 2015, On secondment to the High-Tech Research and Development Center (HTRDC), Ministry of Science and Technology of China (MOST), Beijing, China
   - **Lecturer**
-    - Aug. 2014 – Nov. 2015
-    - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
-    - Wuhan, China
+    - Aug. 2014 – Nov. 2015, National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University, Wuhan, China
   - **Postdoctoral Researcher**
-    - Jul. 2012 – Jul. 2014
-    - National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University
-    - Wuhan, China
+    - Jul. 2012 – Jul. 2014, National Engineering Research Center for Multimedia Software, School of Computer Science, Wuhan University, Wuhan, China
   - **Visiting Student Researcher**
-    - Sep. 2009 – Sep. 2010
-    - China-Singapore Institute of Digital Media (CSIDM)
-    - Singapore
+    - Sep. 2009 – Sep. 2010, China-Singapore Institute of Digital Media (CSIDM), Singapore
 
 **Research Project**
 ======
